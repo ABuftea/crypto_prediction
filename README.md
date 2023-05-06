@@ -1,4 +1,4 @@
-# Crypotucrency Price Prediction
+# Cryptocurency Price Prediction
 
 In this project, the price of a cryptocurrency is estimated using two artificial intelligence methods:
 - Gradient Boosting Enssemble as the machine learnign technique.
